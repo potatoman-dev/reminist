@@ -86,3 +86,7 @@
 - フロントエンド：Next.js
 - スタイリング：Tailwind CSS
 - ログイン：devise
+
+## 画面遷移図
+
+https://www.figma.com/design/SQkrRrVltzrkApdgE587aQ/reminist?node-id=0-1&t=kdvpzZ3ztPUp9hFD-1
