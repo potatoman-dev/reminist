@@ -94,3 +94,5 @@ https://www.figma.com/design/SQkrRrVltzrkApdgE587aQ/reminist?node-id=0-1&t=kdvpz
 ## ER図
 
 https://dbdiagram.io/d/reminist-67303b36e9daa85acae85090
+
+[![Image from Gyazo](https://i.gyazo.com/010dad218ce698a37a9f66e1dcdbee93.png)](https://gyazo.com/010dad218ce698a37a9f66e1dcdbee93)
