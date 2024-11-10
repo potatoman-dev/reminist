@@ -90,3 +90,7 @@
 ## 画面遷移図
 
 https://www.figma.com/design/SQkrRrVltzrkApdgE587aQ/reminist?node-id=0-1&t=kdvpzZ3ztPUp9hFD-1
+
+## ER図
+
+https://dbdiagram.io/d/reminist-67303b36e9daa85acae85090
