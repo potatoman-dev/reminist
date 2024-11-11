@@ -95,4 +95,4 @@ https://www.figma.com/design/SQkrRrVltzrkApdgE587aQ/reminist?node-id=0-1&t=kdvpz
 
 https://dbdiagram.io/d/reminist-67303b36e9daa85acae85090
 
-[![Image from Gyazo](https://i.gyazo.com/a36aeb7dd4bed1ff364c68dd1fe6f714.png)](https://gyazo.com/a36aeb7dd4bed1ff364c68dd1fe6f714)
+[![Image from Gyazo](https://i.gyazo.com/22bbd9533d9438f02961d25931fea604.png)](https://gyazo.com/22bbd9533d9438f02961d25931fea604)
