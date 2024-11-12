@@ -1,3 +1,6 @@
 [submodule "front"]
 	path = front
 	url = git@github.com:potatoman-dev/reminist-front.git
+[submodule "back"]
+	path = back
+	url = git@github.com:potatoman-dev/reminist-back.git
