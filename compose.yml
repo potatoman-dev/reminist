@@ -1,15 +1,4 @@
 services:
-  front:
-    build:
-      context: ./front
-      dockerfile: Dockerfile
-    environment:
-      TZ: Asia/Tokyo
-    volumes:
-      - ./front:/app
-    command: yarn dev -p 4000
-    ports:
-      - "4000:4000"
   back:
     build:
       context: ./back
